@@ -1,0 +1,2 @@
+# tesksali
+Parlayan telgraf derim
